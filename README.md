@@ -1,5 +1,5 @@
 # Guides for developing
-## Make learning easier, faster without loosing the quality
+## Make learning easier, faster by going through the same steps as me, if you want to
 
 ![cover](https://github.com/vadimfedulov395/guides-dev/raw/master/git-guide.png)
 
@@ -15,16 +15,16 @@ Tip: vimtutor is amazing program for beginners and intermediate users of Vim
 
 Tip: block your arrow keys in your vimrc file to stop using them, instead [hjkl] will be faster
 
-Tip: try to reach your changes in as less steps as possible to master your knowledge
+Tip: try to implement as many changes in Vim as you want, it should be your personal tool, use Vim-Plug for these purposes
 
 Resource: "Steve Oualline, The Vim Tutorial and Reference"
 
 - [x] Git Guide
 - [x] Vim Guide
 - [ ] Linux Guide
-- [ ] Linear Algebra 3blue1brown Notes on course
-- [ ] Calulus 3blue1brown Notes on course
+- [ ] Linear Algebra 3Blue1Brown notes on course
+- [ ] Calulus 3Blue1Brown notes on course
 - [ ] Python, Asyncio, Multithreading + Cython
-- [ ] Neural Networks Guide
+- [ ] Neural Networks Guide, Numpy, TensorFlow, PyTorch
 
 Last tip: Know you will always do things bad to some degree
