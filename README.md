@@ -23,7 +23,7 @@ Resource: "Steve Oualline, The Vim Tutorial and Reference"
 - [x] Vim Guide
 - [ ] Linux Guide
 - [ ] Linear Algebra 3Blue1Brown notes on course
-- [ ] Calulus 3Blue1Brown notes on course
+- [ ] Calculus 3Blue1Brown notes on course
 - [ ] Python, Asyncio, Multithreading + Cython
 - [ ] Neural Networks Guide, Numpy, TensorFlow, PyTorch
 
