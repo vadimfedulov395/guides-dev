@@ -19,7 +19,7 @@ Tip: use Vim-Plug for installing plugins
 
 Resource: "Steve Oualline, The Vim Tutorial and Reference" - overdetailed about GUI, but everything except plugins is covered
 
-![cover](https://github/com/vadimfedulov395/guides-dev/raw/master/linux-guide.png)
+![cover](https://github.com/vadimfedulov395/guides-dev/raw/master/linux-guide.png)
 
 Tip: neofetch, lf, tree, glances, htop, gotop, strace, lsof are the most advanced high-level tools, read about them
 
