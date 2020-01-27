@@ -23,7 +23,7 @@ Tip: gitk is great tool for visualization of Git branches' trees
 
 Tip: git push -u origin master command makes you able not to type origin master after
 
-Resource: "Jon Loeliger, Version Control with Git, O'Reily" - sometimes overdetailed, but it helps to know how it works underhood
+Resource: "Jon Loeliger, Version Control with Git, O'Reily" - sometimes overdetailed, but it helps to know how it works under the hood
 
 ### Vim
 
