@@ -5,15 +5,15 @@
 
 Learn about different paradigms of programming and languages
 
-Resource Levels of main programming languages: https://www.youtube.com/watch?v=ReVeUvwTGdU
+Resource CS simplified: https://www.youtube.com/watch?v=9Xs2pKhrim4 
 
 Resourse Essense of Bootstrapping / Why you don't need to know everything about CS: https://www.youtube.com/watch?v=nslY1s0U9_c
 
+Resource Levels of Bootstrapping: https://www.youtube.com/watch?v=ReVeUvwTGdU
+
 Resource Interpreted vs Compiled programming languages: https://www.youtube.com/watch?v=JNMy969SjyU
 
-Resource CS simplified: https://www.youtube.com/watch?v=9Xs2pKhrim4 
-
-Resource CS 60: https://www.youtube.com/watch?v=cgVVZMfLjEI
+Resource Paradigms of programming languages: https://www.youtube.com/watch?v=lqmMqtgWpms
 
 ### Linux
 
@@ -52,7 +52,8 @@ Resource:
 - [x] CS Guide
 - [x] Linux Guide
 - [x] Git Guide
-- [x] Vim + Tmux Guide
+- [x] Vim
+- [ ] Tmux
 - [ ] Linear Algebra 3Blue1Brown notes on course
 - [ ] Calculus 3Blue1Brown notes on course
 - [ ] Python, Asyncio, Multithreading + Cython
