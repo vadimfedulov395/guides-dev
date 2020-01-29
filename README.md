@@ -1,7 +1,7 @@
 # Guides for developing
 ## Make learning easier, faster by going through the same steps as me, if you want to
 
-### CS 60
+### CS
 
 Learn about different paradigms of programming and languages
 
