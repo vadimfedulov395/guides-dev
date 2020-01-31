@@ -43,9 +43,17 @@ Vim: "Steve Oualline, The Vim Tutorial and Reference" - overdetailed about GUI, 
 
 ### Tmux
 
+Tmux: "Tony Narlock, The Tao of tmux: and Terminal Tricks" - simple and detailed enough to start using the customized program
+
+### Tmux + VIM IDE
+
 Vim + Tmux: https://www.youtube.com/watch?v=5r6yzFEXajQ
 
-### Docker + Kubernetes
+### Python
+
+Beginner: "Byte of Python"
+Intermediate: "Marc Lutz, Learning Python, O'Reily"
+Advanced: "Marc Lutz, Programming Python, O'Reily"
 
 Resource:
 
@@ -53,8 +61,10 @@ Resource:
 - [x] Linux Guide
 - [x] Git Guide
 - [x] Vim
-- [ ] Tmux
+- [x] Tmux
+- [x] Vim + Tmux IDE
+- [x] Python
 - [ ] Linear Algebra 3Blue1Brown notes on course
 - [ ] Calculus 3Blue1Brown notes on course
-- [ ] Python, Asyncio, Multithreading + Cython
+- [ ] Asyncio, Multithreading + Cython
 - [ ] Neural Networks Guide, Numpy, TensorFlow, PyTorch
