@@ -52,7 +52,9 @@ Vim + Tmux: https://www.youtube.com/watch?v=5r6yzFEXajQ
 ### Python
 
 Beginner: "Byte of Python"
+
 Intermediate: "Marc Lutz, Learning Python, O'Reily"
+
 Advanced: "Marc Lutz, Programming Python, O'Reily"
 
 Resource:
